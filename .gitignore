@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+
+/api/.vs/Universeity

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Universeity.Api", "source\Universeity.Api\Universeity.Api.csproj", "{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{75E91373-B055-4FB4-BC4A-7504805FFDF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5F90C7A3-0A1D-47BC-803A-801526A902E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E9BFFCCF-CA73-483C-8EA7-1B3D6B9CA4EB} = {75E91373-B055-4FB4-BC4A-7504805FFDF1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC8A31A-A52F-42BA-BCA1-C2A27B996BA0}
+	EndGlobalSection
+EndGlobal
